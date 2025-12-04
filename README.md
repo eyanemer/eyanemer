@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there I' m EYA NEMER 👋
 
 I'm Full Stack Developer (Web & IoT) specializing in Internet of Things and Artificial Intelligence. With extensive experience in designing and developing innovative applications.
 
