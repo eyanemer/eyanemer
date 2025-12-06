@@ -1,7 +1,13 @@
-# Hi there, I'm EYA NEMER 👋✨  
+<p align="center">
+  <img src="https://copilot.microsoft.com/th/id/BCO.96e815c2-4597-4a1b-a378-b3b162756520.png" alt="Eya Nemer Banner"/>
+</p>
 
-🚀 **Full Stack Developer (Web & IoT)** | Passionate about **Internet of Things** & **Artificial Intelligence**  
-💡 Crafting innovative, scalable, and smart applications with a blend of creativity and technology.  
+# 👋 Hi, I'm **EYA NEMER**
+
+🚀 Full Stack Developer (Web & IoT)  
+💡 Specialized in **Internet of Things** & **Artificial Intelligence**  
+🎓 M2 Student in IoT Services Development at ISET Mahdia  
+✨ Passionate about embedded systems, AI, and modern web development  
 
 ---
 
@@ -15,9 +21,19 @@
   <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+---
+
+## 🌐 Portfolio  
+
+<p align="center">
+  <a href="https://eyanemer.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/🌍 Visit My Portfolio-6A1B9A?style=for-the-badge&logo=firefox&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -29,18 +45,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyanemer&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=eyanemer&theme=radical&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
-</p>
-
----
-
-## ✨ Fun Animations  
-
-<p align="center">
-  <img src="https://github.com/eyanemer/eyanemer/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</p>
-
 ---
 
 ## 📫 Contact  
@@ -49,7 +53,3 @@
   <a href="mailto:eyaanemer@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/eya-nemer-026275226/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
-
----
-
-🌟 *“Code is like art — every line should inspire clarity and innovation.”*  
