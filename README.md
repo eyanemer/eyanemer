@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://copilot.microsoft.com/th/id/BCO.96e815c2-4597-4a1b-a378-b3b162756520.png" alt="Eya Nemer Banner"/>
+  <img src="https://copilot.microsoft.com/th/id/BCO.86fe1f66-e48c-4e64-9194-76c422dde8d6.png" alt="Eya Nemer Banner"/>
 </p>
 
-# 👋 Hi, I'm **EYA NEMER**
+
 
 🚀 Full Stack Developer (Web & IoT)  
 💡 Specialized in **Internet of Things** & **Artificial Intelligence**  
@@ -34,15 +34,6 @@
   <a href="https://eyanemer.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/🌍 Visit My Portfolio-6A1B9A?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
-</p>
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eyanemer&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyanemer&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
