@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://copilot.microsoft.com/th/id/BCO.86fe1f66-e48c-4e64-9194-76c422dde8d6.png" alt="Eya Nemer Banner"/>
+  <img src="./banner.svg" alt="Eya Nemer Banner" width="100%"/>
 </p>
 
 🚀 Full Stack Developer 
